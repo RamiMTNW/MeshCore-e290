@@ -5,7 +5,7 @@
 // ============================================================
 
 #include "ui.h"
-#include "../variants/heltec_vme290/target.h"
+#include "target.h"
 
 // ────────────────────────────────────────────────────────────
 // Stan wewnętrzny UI
