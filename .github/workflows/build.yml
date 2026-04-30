@@ -1,5 +1,3 @@
-Gitgub
-
 name: Build MeshCore E290 Firmware
 
 on:
@@ -29,4 +27,3 @@ jobs:
           name: meshcore-e290-firmware
           path: .pio/build/VME290_companion/firmware.bin
           retention-days: 30
-
