@@ -10,7 +10,7 @@
 // ============================================================
 
 #include <Arduino.h>
-#include "..variants/heltec_vme290/target.h"
+#include "target.h"
 #include "ui/ui.h"
 #include "input/cardkb.h"
 
